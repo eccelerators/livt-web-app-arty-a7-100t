@@ -1,0 +1,21 @@
+# Generated Vivado project, reports and local tools
+work/
+.Xil/
+*.jou
+*.log
+vivado*.str
+vivado_pid*
+.venv/
+__pycache__/
+
+# Generated article exports
+/docs/BLOG.html
+/docs/BLOG.pdf
+/WebAppFpga.pdf
+
+# Local editor and agent settings
+.claude/
+.codex/
+.agents/
+.vscode/
+.DS_Store
